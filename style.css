@@ -1,0 +1,29 @@
+body{
+  font-family:sans-serif;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+#para{
+  display:none;
+}
+#dots{
+  display:visible;
+}
+#btn{
+  display:block;
+  border:none;
+  outline:none;
+  background:#ff304f;
+    color:#e2f3f5;
+  padding:8px;
+  cursor:pointer;
+}
+.card{
+  width:300px;
+  background:#482ff7;
+  padding:20px;
+  color:#e2f3f5;
+}
